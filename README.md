@@ -1,5 +1,6 @@
 # 💫 About Me:
 Bonjour, I am Isaac Benavides, a Computer Engineering student at CUCEI, UdeG. I'm always learning new things and trying to improve my skills and projects.
+
 🌱 I’m currently learning Next.js
 
 
