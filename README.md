@@ -2,7 +2,6 @@
 Software Developer and Computer Engineering student at CUCEI, UdeG. I'm always learning new things.
 
 ## What I'm up to
-- 🔭 I’m currently working @ Vercel.
 - 👯 Looking forward to contribute to awesome projects.
 - 🌱 I’m currently working with React 🤝 Next.js
 
