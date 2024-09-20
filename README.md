@@ -1,5 +1,5 @@
 # About me
-Hello everyone, I'm Isaac Benavides, Software Engineer and Computer Engineering student at CUCEI, UdeG. I'm always learning new things.
+Hello everyone, I'm Isaac Benavides, Software Developer and Computer Engineering student at CUCEI, UdeG. I'm always learning new things.
 
 # My skills
 ## 💻 Programming Languages and Databases:
