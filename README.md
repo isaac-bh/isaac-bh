@@ -4,7 +4,7 @@ Hello everyone, I'm Isaac Benavides, Software Developer and Computer Engineering
 # My skills
 ## 💻 Programming Languages and Databases:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,java,go,mysql,postgres,java" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,java,go,mysql,postgres" />
 </p>
 
 ## 💻 Libraries and Frameworks:
